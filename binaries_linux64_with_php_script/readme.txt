@@ -1,6 +1,7 @@
 *** (C)2018-2019 JoEmbedded.de 
 
 This is a simple PHP script to generate a PNG-file via URL.
+"qr_cmd" is the compiled binary of "QR_Encoder.cpp" for Linux64 (set to 'executable')
 
 Note: some browsers display the "pure" image with a dark background, to make the QR-code readable,
 a (white) frame is requried around the image.
