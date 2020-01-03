@@ -2,6 +2,7 @@
 **Jo's Toolbox for a simple QR-code API**
 
 This is a simple Toolbox to generate online QR-codes.
+License: LPGP v3
 
 This ('...qr_get.php?t=http://joembedded.de') will produce:
 
